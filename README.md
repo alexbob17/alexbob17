@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
- <a href="https://www.linkedin.com/in/alejandro-morales-16a151208/"><img align="left" alt="codeSTACKr.com" width="22px" src="https://logos-marcas.com/wp-content/uploads/2020/04/Linkedin-s%C3%ADmbolo.png" /> </a>
+ <a href="https://www.linkedin.com/in/alejandro-morales-16a151208/"><img align="left" alt="codeSTACKr.com" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /> </a>
 
  <a href="https://twitter.com/kleosling"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://camo.githubusercontent.com/3253f1e385efa0b09493d467f352e10414c3984064c6a4e99d4e705709018c43/68747470733a2f2f66696c6970706f62697374616666612e6769746875622e696f2f696d616765732f747769747465722e737667" /></a>
 
