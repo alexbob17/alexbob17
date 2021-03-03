@@ -13,9 +13,10 @@
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 
 
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://camo.githubusercontent.com/3253f1e385efa0b09493d467f352e10414c3984064c6a4e99d4e705709018c43/68747470733a2f2f66696c6970706f62697374616666612e6769746875622e696f2f696d616765732f747769747465722e737667" /> <a href="https://www.w3schools.com">Visit W3Schools</a>
+ <a href="https://twitter.com/kleosling"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://camo.githubusercontent.com/3253f1e385efa0b09493d467f352e10414c3984064c6a4e99d4e705709018c43/68747470733a2f2f66696c6970706f62697374616666612e6769746875622e696f2f696d616765732f747769747465722e737667" /></a>
 
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://repository-images.githubusercontent.com/189242280/7305be80-8258-11e9-9954-3449b5b32d4f" /><a href="https://www.w3schools.com">Visit W3Schools</a>
+<a href="https://www.instagram.com/alexito_s_morales/?hl=es-la">
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://camo.githubusercontent.com/366697de3f6ada9ce804834e6e091c64a1d5d6d267b1b88206b086b67085369d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36652f496e7374616772616d5f666f6e745f617765736f6d652e7376672f3230303070782d496e7374616772616d5f666f6e745f617765736f6d652e7376672e706e67" /></a>
 
 <br />
 
