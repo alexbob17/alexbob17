@@ -15,7 +15,7 @@
 
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://camo.githubusercontent.com/3253f1e385efa0b09493d467f352e10414c3984064c6a4e99d4e705709018c43/68747470733a2f2f66696c6970706f62697374616666612e6769746875622e696f2f696d616765732f747769747465722e737667" /> <a href="https://www.w3schools.com">Visit W3Schools</a>
 
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.google.com/search?q=logo+instagram+github&tbm=isch&ved=2ahUKEwiH7_D6tZTvAhX0bDABHZ6qCMwQ2-cCegQIABAA&oq=logo+instagram+github&gs_lcp=CgNpbWcQA1C7Clj5GGCOG2gAcAB4AIABaYgB5QSSAQMxLjWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=7ag_YMfEB_TZwbkPntWi4Aw&bih=913&biw=1280#imgrc=YKRU5qo6Fe-KlM" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://repository-images.githubusercontent.com/189242280/7305be80-8258-11e9-9954-3449b5b32d4f" /><a href="https://www.w3schools.com">Visit W3Schools</a>
 
 <br />
 
