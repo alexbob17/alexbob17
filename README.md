@@ -12,7 +12,7 @@
 ## ⚡ 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
+![React](https://img.shields.io/badge/-Php-blue?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
