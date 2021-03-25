@@ -8,6 +8,7 @@
 - 🌐 𝗬𝗼𝘂 𝗰𝗮𝗻 𝗮𝗰𝗰𝗲𝘀𝘀 𝗮𝗹𝗹 𝗺𝘆 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗵𝗲𝗿𝗲 𝗼𝗻 𝗚𝗶𝘁𝗵𝘂𝗯
 
 
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
