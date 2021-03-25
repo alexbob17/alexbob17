@@ -4,8 +4,8 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 **𝚂𝚎𝚗𝚒𝚘𝚛 𝙵𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝙵𝚛𝚘𝚖 𝙼𝚊𝚗𝚊𝚐𝚞𝚊, 𝙽𝚒𝚌.** 
-- 🎓 5th year student of system engineering at the nacional university of engineering (RUPAP) . Class 2021 
-- 🌐 You can access all my open source projects here on Github
+- 🎓**𝟻𝚝h 𝚢𝚎𝚊𝚛 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝚜𝚢𝚜𝚝𝚎𝚖 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝚝he 𝚗𝚊𝚌𝚒𝚘𝚗𝚊l u𝚗𝚒vers𝚒𝚝𝚢 𝚘𝚏 eng𝚒𝚗eer𝚒ng (𝚁𝚞𝚙𝚊𝚙) . 𝚌l𝚊𝚜𝚜 2021 **
+- 🌐**You can access all my open source projects here on Github**
 
 
 
