@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/alexbob17/alexbob17/blob/main/alejo.png?raw=true" alt="Alejandro Morales" />
+  <img src="https://github.com/alexbob17/alexbob17/blob/main/New%20Project.png?raw=true" alt="Alejandro Morales" />
 </h1>
 
 ### Hi there, I'm Alejandro- aka [Salomon] 👋
