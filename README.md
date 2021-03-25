@@ -37,4 +37,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=alexbob17&show_icons=true&theme=dark)
