@@ -3,7 +3,7 @@
 </h1>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 **Senior Front-End developer, From Managua, Nic.** 
+- 🖥 **𝚂𝚎𝚗𝚒𝚘𝚛 𝙵𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝙵𝚛𝚘𝚖 𝙼𝚊𝚗𝚊𝚐𝚞𝚊, 𝙽𝚒𝚌.** 
 - 🎓 5th year student of system engineering at the nacional university of engineering (RUPAP) . Class 2021 
 - 🌐 You can access all my open source projects here on Github
 
