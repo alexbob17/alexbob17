@@ -32,7 +32,7 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="" title=""/>](https://www.linkedin.com/in/alejandro1817/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="" title=""/>](https://twitter.com/kleosling)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="" title=""/>](https://www.instagram.com/alexito_s_morales/?hl=es)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Quora_icon.svg/1200px-Quora_icon.svg.png" height="40em" align="center" alt="alt" title=""/>](https://www.instagram.com/alexito_s_morales/?hl=es)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Quora_Q_icon_2015.svg/1200px-Quora_Q_icon_2015.svg.png" height="40em" align="center" alt="alt" title=""/>](https://www.instagram.com/alexito_s_morales/?hl=es)
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
