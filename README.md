@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://github.com/alexbob17/alexbob17/blob/main/profile.jpg?raw=true" alt="Alejandro Morales" />
+  <img src="https://github.com/alexbob17/alexbob17/blob/main/New%20Project.jpg?raw=true" alt="Alejandro Morales" />
 </h1>
 
 ## 𝗦𝘁𝗮𝘁𝘀
