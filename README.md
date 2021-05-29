@@ -2,13 +2,6 @@
   <img src="https://github.com/alexbob17/alexbob17/blob/main/New%20Project.png?raw=true" alt="Alejandro Morales" />
 </h1>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 **Junior 𝙵𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝙵𝚛𝚘𝚖 𝙼𝚊𝚗𝚊𝚐𝚞𝚊, 𝙽𝚒𝚌.** 
-- 🎓**𝟻𝚝h 𝚢𝚎𝚊𝚛 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝚜𝚢𝚜𝚝𝚎𝚖 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝚝he 𝚗𝚊𝚌𝚒𝚘𝚗𝚊l u𝚗𝚒vers𝚒𝚝𝚢 𝚘𝚏 eng𝚒𝚗eer𝚒ng (𝚁𝚞𝚙𝚊𝚙).**
-
-
-
-
 ## ⚡ 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
