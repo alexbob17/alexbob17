@@ -1,4 +1,3 @@
-[![](https://raw.githubusercontent.com/alexbob17/alexbob17/master/profile.gif)](https://alejodev2021-site.netlify.app)
 
 
 <h1 align="center">
