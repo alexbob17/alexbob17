@@ -15,5 +15,4 @@
 <!-- <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/> -->
-<a href="https://github.com/alexbob17/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+
