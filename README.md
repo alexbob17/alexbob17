@@ -1,6 +1,6 @@
-<div align="center" >
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+mi+name+is+Alejandro+Morales;I+am+a+front-End+developer.;Always+learning+new+things)](https://git.io/typing-svg)
-</div>
+<p align="center">
+  <a href="[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+mi+name+is+Alejandro+Morales;I+am+a+front-End+developer.;Always+learning+new+things)](https://git.io/typing-svg)"></a>
+</p>
 
 <h1 align="center">
   <img src="https://github.com/alexbob17/alexbob17/blob/main/New%20Project.jpg?raw=true" alt="Alejandro Morales" />
