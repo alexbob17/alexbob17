@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&lines=Front-End+Developer;Nice+to+meet+you...;Always+learning+new+things)](https://git.io/typing-svg)
 
-  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=2BBC79&lines=Front-End+Developer;Nice+to+meet+you...;Always+learning+new+things)](https://git.io/typing-svg)
-  
  <img src="https://github.com/alexbob17/alexbob17/blob/main/New%20Project.jpg?raw=true" alt="Alejandro Morales" />
 </h1>
 
