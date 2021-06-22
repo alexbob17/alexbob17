@@ -1,3 +1,8 @@
+<h3 align="center">
+  Welcome to Alejandro Morales profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2BBC79&size=30&width=430&lines=Hello+mi+name+is+Alejandro+Morales;I+am+a+Front-End+developer.;Always+learning+new+things)](https://git.io/typing-svg)
 
 <h1 align="center">
