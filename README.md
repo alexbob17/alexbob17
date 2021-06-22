@@ -1,9 +1,9 @@
 # Hi, I'm Alejandro Morales (:computer::coffee:)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&lines=Front-End+Developer;Nice+to+meet+you...;Always+learning+new+things)](https://git.io/typing-svg)
 <h1 align="center">
-  <img src="https://github.com/alexbob17/alexbob17/blob/main/New%20Project.jpg?raw=true" alt="Alejandro Morales" />
+  
+ <img src="https://github.com/alexbob17/alexbob17/blob/main/New%20Project.jpg?raw=true" alt="Alejandro Morales" />
 </h1>
 
 ## 📊 Github stats
