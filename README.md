@@ -1,4 +1,4 @@
-# Hi, I'm Alejandro Morales (:coffee::computer::bulb:)
+# Hi, I'm Alejandro Morales (:computer::coffee:)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2BBC79&size=30&width=430&lines=Hello+mi+name+is+Alejandro+Morales;I+am+a+Front-End+developer.;Always+learning+new+things)](https://git.io/typing-svg)
 
