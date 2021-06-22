@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2BBC79&size=30&width=430&lines=Hello+mi+name+is+Alejandro+Morales;I+am+a+front-End+developer.;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2BBC79&size=30&width=430&lines=Hello+mi+name+is+Alejandro+Morales;I+am+a+Front-End+developer.;Always+learning+new+things)](https://git.io/typing-svg)
 
 <h1 align="center">
   <img src="https://github.com/alexbob17/alexbob17/blob/main/New%20Project.jpg?raw=true" alt="Alejandro Morales" />
